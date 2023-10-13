@@ -1,0 +1,21 @@
+-
+  feature:  公共分类模块
+  story: 会员注册
+  title:  会员注册成功
+  request:
+    menoth:  POST
+    url:  https://demo.api.asiatic.online/xwapi/portal-api/mp/home/regist
+    headers:  null
+    parmas:
+      "mallId": "1626111817634648066"
+      "registSource": "3"
+      "mobile": 15089414758
+      "validateKey": validateKey
+      "validateCode": code
+      "code": null
+      "sex": 0
+      "refererCustomerId": null
+      "bizId": null
+      "needValidateMobilNo": true
+
+  villdate: null
